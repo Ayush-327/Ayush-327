@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayush-327
+- 👋 Hi, I’m @Ayush-327 aka Ayush
 - 👀 I’m interested in machine learning and app developemnt
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on deep learning projects
